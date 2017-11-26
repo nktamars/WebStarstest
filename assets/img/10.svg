@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="46px" height="42px" viewBox="0 0 23 21">
+<style type="text/css"><![CDATA[
+.style0 {
+  font-size: 11.6403px;
+  font-family: "PTSans-Bold";
+  fill: rgb(255,255,255);
+}
+]]></style>
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feFlood flood-color="rgb(203,147,75)" result="coFloodOut1"/>
+<feComposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feBlend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<ellipse cx="11.50" cy="10.50" rx="11.50" ry="10.50" fill="rgb(255,255,255)" filter="url(#filter0)"/><text transform="matrix(1.20,0.00,0.00,1.20,3.25,14.88)" class="style0"><tspan x="0.00 5.97" fill="rgb(255,255,255)">10</tspan></text></svg>
